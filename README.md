@@ -1,5 +1,5 @@
 
-# MÔN PHÁT TRIỂN ỨNG DỤNG Desktop
+# MÔN PHÁT TRIỂN ỨNG DỤNG DESKTOP
 
 ## Tên đề tài : Quản lý cửa hàng trà sữa UEH (UEH Cha Corner)
 
